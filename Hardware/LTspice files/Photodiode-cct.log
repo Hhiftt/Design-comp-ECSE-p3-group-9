@@ -1,0 +1,18 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Engineering\Design comp\Design-comp-ECSE-p3-group-9\Hardware\LTspice files\Photodiode-cct.net
+Start Time: Thu Jun 18 15:01:47 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.136 seconds.
+
+Files loaded:
+C:\Engineering\Design comp\Design-comp-ECSE-p3-group-9\Hardware\LTspice files\Photodiode-cct.net
+C:\Users\realh\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
+
