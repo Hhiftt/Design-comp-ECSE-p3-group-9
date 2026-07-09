@@ -1,18 +1,22 @@
 from machine import Pin
 from utime import sleep_ms
+import sys
 
 pin1 = Pin(16, Pin.IN, Pin.PULL_DOWN)
 pin2 = Pin(17, Pin.IN, Pin.PULL_DOWN)
 pin3 = Pin(18, Pin.IN, Pin.PULL_DOWN)
 pin4 = Pin(19, Pin.IN, Pin.PULL_DOWN)
 
-boolean1 = Gameactive = False
 
-boolean1 = pin1hit = False
-boolean2 = pin2hit = False
-boolean3 = pin3hit = False
-boolean4 = pin4hit = False
+Gameactive, pin1hit, pin2hit, pin3hit, pin4hit = False, False, False, False, False
 
+user_input = input("Start Game? (y/n): ")
+if user_input.lower() == "y":
+    Gameactive = True
+    print("Game Started")
+else:
+    print("Game Not Started")
+    sys.exit()
 
 while Gameactive == True:
     if pin1.value() == 1:
@@ -20,7 +24,6 @@ while Gameactive == True:
         pin1hit = True
         sleep_ms(100)
     else:
-        print("Target 1 Not Hit")
         pin1hit = False
 
     if pin2.value() == 1:
@@ -28,7 +31,6 @@ while Gameactive == True:
         pin2hit = True
         sleep_ms(100)
     else:
-        print("Target 2 Not Hit")
         pin2hit = False
 
     if pin3.value() == 1:
@@ -36,7 +38,6 @@ while Gameactive == True:
         pin3hit = True
         sleep_ms(100)
     else:
-        print("Target 3 Not Hit")
         pin3hit = False
 
     if pin4.value() == 1:
@@ -44,5 +45,4 @@ while Gameactive == True:
         pin4hit = True
         sleep_ms(100)
     else:
-        print("Target 4 Not Hit")
         pin4hit = False
