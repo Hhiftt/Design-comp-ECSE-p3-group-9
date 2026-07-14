@@ -1,6 +1,6 @@
 LTspice 26.0.1 for Windows
 Circuit: C:\Engineering\Design comp\Design-comp-ECSE-p3-group-9\Hardware\LTspice files\Photodiode-cct.net
-Start Time: Wed Jul  8 13:32:19 2026
+Start Time: Sun Jul 12 11:17:27 2026
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -10,7 +10,7 @@ Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.207 seconds.
+Total elapsed time: 0.471 seconds.
 
 Files loaded:
 C:\Engineering\Design comp\Design-comp-ECSE-p3-group-9\Hardware\LTspice files\Photodiode-cct.net
