@@ -192,7 +192,7 @@ function create() {
         }
         
         spawnerEvent = this.time.addEvent({
-            delay: 1500,
+            delay: 1,
             callback: () => spawnNote(this),
             loop: true
         });
@@ -412,10 +412,10 @@ function triggerGameOver(scene) {
         let panel = scene.add.rectangle(xCenter, 320, 340, 340, 0x000000, 0.9).setDepth(20);
         panel.setStrokeStyle(4, panelColor);
 
-        scene.add.text(xCenter, 190, pName, { font: `bold 28px ${retroFont}`, fill: '#ffffff' }).setOrigin(0.5).setTint(panelColor).setDepth(20);
-
         let startY = 200;
         let spacing = 40;
+
+        scene.add.text(xCenter, startY - spacing + 8, pName, { font: `bold 28px ${retroFont}`, fill: '#ffffff' }).setOrigin(0.5).setTint(panelColor).setDepth(20);
 
         const addStat = (y, label, value, color = '#ffff00') => {
             scene.add.text(xCenter - 130, y, label, { font: `20px ${retroFont}`, fill: '#ffffff' }).setOrigin(0, 0.5).setDepth(20);
