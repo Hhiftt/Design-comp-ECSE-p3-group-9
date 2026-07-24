@@ -4,12 +4,11 @@ from utime import sleep_ms
 pin0 = Pin(16, Pin.IN, Pin.PULL_DOWN)
 pin1 = Pin(17, Pin.IN, Pin.PULL_DOWN)
 pin2 = Pin(18, Pin.IN, Pin.PULL_DOWN)
-pin3 = Pin(19, Pin.IN, Pin.PULL_DOWN)
 
-pin4 = Pin(25, Pin.IN, Pin.PULL_DOWN)
-pin5 = Pin(26, Pin.IN, Pin.PULL_DOWN)
-pin6 = Pin(32, Pin.IN, Pin.PULL_DOWN)
-pin7 = Pin(33, Pin.IN, Pin.PULL_DOWN)
+pin3 = Pin(21, Pin.IN, Pin.PULL_DOWN)
+pin4 = Pin(22, Pin.IN, Pin.PULL_DOWN)
+pin5 = Pin(23, Pin.IN, Pin.PULL_DOWN)
+
 
 Gameactive = True
 
@@ -19,8 +18,6 @@ pin2hit = False
 pin3hit = False
 pin4hit = False
 pin5hit = False
-pin6hit = False
-pin7hit = False
 
 while Gameactive:
 
@@ -72,19 +69,5 @@ while Gameactive:
     else:
         pin5hit = False
     
-    if pin6.value() == 1:
-        if not pin6hit:
-            print(6)
-            sleep_ms(100)
-        pin6hit = True
-    else:
-        pin6hit = False
 
-    if pin7.value() == 1:
-        if not pin7hit:
-            print(7)
-            sleep_ms(100)
-        pin7hit = True
-    else:
-        pin7hit = False
 

@@ -17,7 +17,7 @@ hits = [False] * len(pins)
 while Gameactive:
     for i, pin in enumerate(pins):
         if pin.value() == 1:
-            if not hits[i]:
+            if not hits[i]:		
                 print(i)
                 sleep_ms(3)
             hits[i] = True
