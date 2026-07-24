@@ -5,11 +5,9 @@ pins = [
     Pin(16, Pin.IN, Pin.PULL_DOWN), #Pin0
     Pin(17, Pin.IN, Pin.PULL_DOWN), #Pin1
     Pin(18, Pin.IN, Pin.PULL_DOWN), #Pin2
-    Pin(19, Pin.IN, Pin.PULL_DOWN), #Pin3
-    Pin(25, Pin.IN, Pin.PULL_DOWN), #Pin4
-    Pin(26, Pin.IN, Pin.PULL_DOWN), #Pin5
-    Pin(32, Pin.IN, Pin.PULL_DOWN), #Pin6
-    Pin(33, Pin.IN, Pin.PULL_DOWN), #Pin7
+    Pin(21, Pin.IN, Pin.PULL_DOWN), #Pin3
+    Pin(22, Pin.IN, Pin.PULL_DOWN), #Pin4
+    Pin(23, Pin.IN, Pin.PULL_DOWN), #Pin5
 ]
 
 Gameactive = True
