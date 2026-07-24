@@ -3,6 +3,13 @@ const config = {
     width: 800,
     height: 600,
     backgroundColor: '#0a0a0a',
+    scale: {
+        parent: 'game-container',
+        mode: Phaser.Scale.FIT,
+        autoCenter: Phaser.Scale.Center.CENTER_BOTH,
+        width: 800,
+        height: 600
+    },
     scene: {
         preload: preload,
         create: create,
@@ -22,7 +29,7 @@ const laneX = [
     500, 600, 700   // Player 2 Lanes
 ]; 
 const targetY = 520; 
-const noteSpeed = 6; 
+const noteSpeed = 2; 
 const colors = [0xff00ff, 0x00ffff, 0x39ff14, 0xff00ff, 0x00ffff, 0x39ff14]; 
 const hitZoneRadius = 40; 
 const perfectZoneRadius = 15;
@@ -255,8 +262,27 @@ function fireLaser(laneIndex, scene) {
     }
 
     if (!hitSuccessful) {
-        handleMiss(scene, laneIndex, player);
+        handleWrongInput(scene, laneIndex, player);
     }
+}
+
+function handleWrongInput(scene, laneIndex, player) {
+    if (scene.cache.audio.exists('missSound')) {
+        scene.sound.play('missSound', { volume: 0.6 });
+    }
+    
+    combos[player] = 0;
+    scene.tweens.add({
+        targets: [comboTexts[player], multiplierTexts[player]],
+        alpha: 0,
+        duration: 150
+    });
+    
+    // Deduct points for hitting the wrong note
+    let penalty = 25;
+    scores[player] = Math.max(0, scores[player] - penalty);
+    scoreTexts[player].setText(scores[player].toString().padStart(6, '0'));
+    showFloatingText(scene, laneX[laneIndex], targetY - 40, "WRONG", 0xff0000);
 }
 
 function handleMiss(scene, laneIndex, player) {
@@ -266,13 +292,6 @@ function handleMiss(scene, laneIndex, player) {
     
     misses[player]++;
     showFloatingText(scene, laneX[laneIndex], targetY - 40, "MISS", 0xff00ff);
-    
-    combos[player] = 0;
-    scene.tweens.add({
-        targets: [comboTexts[player], multiplierTexts[player]],
-        alpha: 0,
-        duration: 150
-    });
 }
 
 function updateComboUI(scene, player, multiplier) {
@@ -390,12 +409,12 @@ function triggerGameOver(scene) {
         let totalAttempts = perfects[p] + goods[p] + misses[p];
         let accuracy = totalAttempts > 0 ? ((perfects[p] + (goods[p] * 0.5)) / totalAttempts) * 100 : 0;
 
-        let panel = scene.add.rectangle(xCenter, 360, 340, 400, 0x000000, 0.9).setDepth(20);
+        let panel = scene.add.rectangle(xCenter, 320, 340, 340, 0x000000, 0.9).setDepth(20);
         panel.setStrokeStyle(4, panelColor);
 
         scene.add.text(xCenter, 190, pName, { font: `bold 28px ${retroFont}`, fill: '#ffffff' }).setOrigin(0.5).setTint(panelColor).setDepth(20);
 
-        let startY = 240;
+        let startY = 200;
         let spacing = 40;
 
         const addStat = (y, label, value, color = '#ffff00') => {
@@ -414,7 +433,7 @@ function triggerGameOver(scene) {
         addStat(startY + spacing * 5.5, 'MISS', misses[p], '#ff00ff');
     }
 
-    let restartBtn = scene.add.text(400, 570, '> INSERT COIN TO RESTART <', { 
+    let restartBtn = scene.add.text(400, 540, '> INSERT COIN TO RESTART <', { 
         font: `bold 24px ${retroFont}`, fill: '#ffff00', backgroundColor: '#000000'
     }).setOrigin(0.5).setInteractive().setDepth(100);
 

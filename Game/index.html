@@ -5,11 +5,25 @@
     <!-- THIS is the CDN link! It loads the Phaser game engine directly from the web -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/phaser/3.60.0/phaser.min.js"></script>
     <style>
-        body { margin: 0; background-color: black; display: flex; justify-content: center; }
+        html, body { 
+            margin: 0; 
+            padding: 0;
+            height: 100%;
+        }
+        
+        body {
+            background-color: black;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
     </style>
 </head>
 <body>
-    <!-- This links your HTML file to your game code -->
-    <script src="game.js"></script>
+    <div id="game-container">
+        <!-- This links your HTML file to your game code -->
+        <script src="game.js"></script>
+    </div>
 </body>
 </html>
