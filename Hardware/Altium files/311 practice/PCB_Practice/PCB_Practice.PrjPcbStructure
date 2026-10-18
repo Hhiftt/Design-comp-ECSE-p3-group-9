@@ -1,1 +1,4 @@
 Record=TopLevelDocument|FileName=311prac.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=311prac.SchDoc|Designator=D1|SchDesignator=D1|FileName=LightSense.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=LightSense.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=311prac.SchDoc|Designator=D2|SchDesignator=D2|FileName=LightSense.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=LightSense.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=311prac.SchDoc|Designator=D3|SchDesignator=D3|FileName=LightSense.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=LightSense.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

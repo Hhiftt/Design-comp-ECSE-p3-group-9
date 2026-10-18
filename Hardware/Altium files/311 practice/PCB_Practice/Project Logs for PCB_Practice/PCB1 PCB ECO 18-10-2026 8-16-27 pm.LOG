@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Add Pin To Net: Unknown Pin: Pin U1_D1-1
+Add Pin To Net: Unknown Pin: Pin U1_D1-2
+Add Pin To Net: Unknown Pin: Pin U1_D1-3
+Add Pin To Net: Unknown Pin: Pin U1_D1-4
+Add Pin To Net: Unknown Pin: Pin U1_D1-5
+Add Pin To Net: Unknown Pin: Pin U1_D1-6
+Add Pin To Net: Unknown Pin: Pin U1_D1-7
+Add Pin To Net: Unknown Pin: Pin U1_D1-8
+Add Pin To Net: Unknown Pin: Pin U1_D2-1
+Add Pin To Net: Unknown Pin: Pin U1_D2-2
+Add Pin To Net: Unknown Pin: Pin U1_D2-3
+Add Pin To Net: Unknown Pin: Pin U1_D2-4
+Add Pin To Net: Unknown Pin: Pin U1_D2-5
+Add Pin To Net: Unknown Pin: Pin U1_D2-6
+Add Pin To Net: Unknown Pin: Pin U1_D2-7
+Add Pin To Net: Unknown Pin: Pin U1_D2-8
+Add Pin To Net: Unknown Pin: Pin U1_D3-1
+Add Pin To Net: Unknown Pin: Pin U1_D3-2
+Add Pin To Net: Unknown Pin: Pin U1_D3-3
+Add Pin To Net: Unknown Pin: Pin U1_D3-4
+Add Pin To Net: Unknown Pin: Pin U1_D3-5
+Add Pin To Net: Unknown Pin: Pin U1_D3-6
+Add Pin To Net: Unknown Pin: Pin U1_D3-7
+Add Pin To Net: Unknown Pin: Pin U1_D3-8
+Added Member To Class: ClassName=311prac Member=Component P4 CON000001

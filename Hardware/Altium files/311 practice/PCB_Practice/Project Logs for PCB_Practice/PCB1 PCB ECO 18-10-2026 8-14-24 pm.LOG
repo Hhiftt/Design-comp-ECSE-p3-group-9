@@ -1,0 +1,108 @@
+Change Component Designator: OldDesignator=C?_D1 NewDesignator=C1_D1
+Change Component Designator: OldDesignator=C?_D1 NewDesignator=C2_D1
+Change Component Designator: OldDesignator=C?_D1 NewDesignator=C3_D1
+Change Component Designator: OldDesignator=C?_D2 NewDesignator=C1_D2
+Change Component Designator: OldDesignator=C?_D2 NewDesignator=C2_D2
+Change Component Designator: OldDesignator=C?_D2 NewDesignator=C3_D2
+Change Component Designator: OldDesignator=C?_D3 NewDesignator=C1_D3
+Change Component Designator: OldDesignator=C?_D3 NewDesignator=C2_D3
+Change Component Designator: OldDesignator=C?_D3 NewDesignator=C3_D3
+Change Component Designator: OldDesignator=LED?_D1 NewDesignator=LED1_D1
+Change Component Designator: OldDesignator=LED?_D2 NewDesignator=LED1_D2
+Change Component Designator: OldDesignator=LED?_D3 NewDesignator=LED1_D3
+Change Component Designator: OldDesignator=R?_D1 NewDesignator=R1_D1
+Change Component Designator: OldDesignator=R?_D1 NewDesignator=R2_D1
+Change Component Designator: OldDesignator=R?_D1 NewDesignator=R3_D1
+Change Component Designator: OldDesignator=R?_D1 NewDesignator=R4_D1
+Change Component Designator: OldDesignator=R?_D1 NewDesignator=R5_D1
+Change Component Designator: OldDesignator=R?_D2 NewDesignator=R1_D2
+Change Component Designator: OldDesignator=R?_D2 NewDesignator=R2_D2
+Change Component Designator: OldDesignator=R?_D2 NewDesignator=R3_D2
+Change Component Designator: OldDesignator=R?_D2 NewDesignator=R4_D2
+Change Component Designator: OldDesignator=R?_D2 NewDesignator=R5_D2
+Change Component Designator: OldDesignator=R?_D3 NewDesignator=R1_D3
+Change Component Designator: OldDesignator=R?_D3 NewDesignator=R2_D3
+Change Component Designator: OldDesignator=R?_D3 NewDesignator=R3_D3
+Change Component Designator: OldDesignator=R?_D3 NewDesignator=R4_D3
+Change Component Designator: OldDesignator=R?_D3 NewDesignator=R5_D3
+Added Component: Designator=U1_D1(TLC082_TH)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/lit/gpn/tlc082"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLC082CP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U1_D2(TLC082_TH)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/lit/gpn/tlc082"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLC082CP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U1_D3(TLC082_TH)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/lit/gpn/tlc082"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLC082CP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U1_D1-3
+Add Pin To Net: Unknown Pin: Pin U1_D1-4
+Add Pin To Net: Unknown Pin: Pin U1_D1-6
+Add Pin To Net: Unknown Pin: Pin U1_D1-7
+Add Pin To Net: Unknown Pin: Pin U1_D1-8
+Add Pin To Net: Unknown Pin: Pin U1_D2-2
+Add Pin To Net: Unknown Pin: Pin U1_D2-3
+Add Pin To Net: Unknown Pin: Pin U1_D2-4
+Add Pin To Net: Unknown Pin: Pin U1_D2-7
+Add Pin To Net: Unknown Pin: Pin U1_D2-8
+Add Pin To Net: Unknown Pin: Pin U1_D3-3
+Add Pin To Net: Unknown Pin: Pin U1_D3-4
+Add Pin To Net: Unknown Pin: Pin U1_D3-6
+Add Pin To Net: Unknown Pin: Pin U1_D3-7
+Add Pin To Net: Unknown Pin: Pin U1_D3-8
+Change Net Name : Old Net Name=NetC?_D1_1 New Net Name=NetC2_D1_1
+Change Net Name : Old Net Name=NetC?_D2_1 New Net Name=NetC1_D2_1
+Change Net Name : Old Net Name=NetC?_D3_1 New Net Name=NetC2_D3_1
+Added Pin To Net: NetName=NetC1_D1_1 Pin=C1_D1-1
+Added Pin To Net: NetName=NetC1_D1_1 Pin=R1_D1-1
+Added Pin To Net: NetName=NetC1_D1_1 Pin=R4_D1-2
+Added Net: Name=NetC1_D1_1
+Added Pin To Net: NetName=NetC1_D1_2 Pin=C1_D1-2
+Added Pin To Net: NetName=NetC1_D1_2 Pin=R1_D1-2
+Added Net: Name=NetC1_D1_2
+Added Pin To Net: NetName=NetC1_D2_2 Pin=C1_D2-2
+Added Pin To Net: NetName=NetC1_D2_2 Pin=R1_D2-2
+Added Net: Name=NetC1_D2_2
+Added Pin To Net: NetName=NetC1_D3_1 Pin=C1_D3-1
+Added Pin To Net: NetName=NetC1_D3_1 Pin=R1_D3-1
+Added Pin To Net: NetName=NetC1_D3_1 Pin=R4_D3-2
+Added Net: Name=NetC1_D3_1
+Added Pin To Net: NetName=NetC1_D3_2 Pin=C1_D3-2
+Added Pin To Net: NetName=NetC1_D3_2 Pin=R1_D3-2
+Added Net: Name=NetC1_D3_2
+Added Pin To Net: NetName=NetC2_D2_1 Pin=C2_D2-1
+Added Pin To Net: NetName=NetC2_D2_1 Pin=R2_D2-1
+Added Pin To Net: NetName=NetC2_D2_1 Pin=R3_D2-2
+Added Net: Name=NetC2_D2_1
+Added Member To Class: ClassName=D1 Member=Component C1_D1 (C1) CAP000026
+Added Member To Class: ClassName=D3 Member=Component C1_D3 (C1) CAP000026
+Added Member To Class: ClassName=D2 Member=Component C2_D2 (C2) CAP000026
+Added Member To Class: ClassName=D1 Member=Component C3_D1 (C3) CAP000026
+Added Member To Class: ClassName=D2 Member=Component C3_D2 (C3) CAP000026
+Added Member To Class: ClassName=D3 Member=Component C3_D3 (C3) CAP000026
+Added Member To Class: ClassName=D1 Member=Component R1_D1 (R1) RES000058
+Added Member To Class: ClassName=D2 Member=Component R1_D2 (R1) RES000058
+Added Member To Class: ClassName=D3 Member=Component R1_D3 (R1) RES000058
+Added Member To Class: ClassName=D2 Member=Component R2_D2 (R2) RES000058
+Added Member To Class: ClassName=D3 Member=Component R2_D3 (R2) RES000058
+Added Member To Class: ClassName=D1 Member=Component R3_D1 (R3)
+Added Member To Class: ClassName=D3 Member=Component R3_D3 (R3)
+Added Member To Class: ClassName=D1 Member=Component R4_D1 (R4) RES000058
+Added Member To Class: ClassName=D2 Member=Component R4_D2 (R4) RES000058
+Added Member To Class: ClassName=D3 Member=Component R4_D3 (R4) RES000058
+Added Member To Class: ClassName=D1 Member=Component R5_D1 (R5) RES000058
+Added Member To Class: ClassName=D2 Member=Component R5_D2 (R5) RES000058
+Added Member To Class: ClassName=D1 Member=Component U1_D1 (U1A) TLC082CP
+Added Member To Class: ClassName=D2 Member=Component U1_D2 (U1A) TLC082CP
+Added Member To Class: ClassName=D3 Member=Component U1_D3 (U1A) TLC082CP

@@ -1,0 +1,600 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=+5 Pin=C3-2
+Removed Pin From Net: NetName=Photo C-V1 Pin=LED1-1
+Removed Pin From Net: NetName=+5 Pin=LED1-2
+Removed Pin From Net: NetName=+5 Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=Photo C-V1 Pin=R5-2
+Removed Pin From Net: NetName=Photo C-V1 Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=+5 Pin=U1-8
+Removed Member From Class: ClassName=311prac Member=C1
+Removed Member From Class: ClassName=311prac Member=C2
+Removed Member From Class: ClassName=311prac Member=C3
+Removed Member From Class: ClassName=311prac Member=LED1
+Removed Member From Class: ClassName=311prac Member=R1
+Removed Member From Class: ClassName=311prac Member=R2
+Removed Member From Class: ClassName=311prac Member=R3
+Removed Member From Class: ClassName=311prac Member=R4
+Removed Member From Class: ClassName=311prac Member=R5
+Removed Member From Class: ClassName=311prac Member=U1
+Added Component: Designator=C?_D1(ECE-CAPR0.2x0.1TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://share.engineering.auckland.ac.nz/ece/ts/Student%20Documents/CER%20CAP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Obsolete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "CAP000026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_D1(ECE-CAPR0.2x0.1TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://share.engineering.auckland.ac.nz/ece/ts/Student%20Documents/CER%20CAP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Obsolete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "CAP000026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_D1(ECE-CAPR0.2x0.1TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://share.engineering.auckland.ac.nz/ece/ts/Student%20Documents/CER%20CAP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Obsolete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "CAP000026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_D2(ECE-CAPR0.2x0.1TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://share.engineering.auckland.ac.nz/ece/ts/Student%20Documents/CER%20CAP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Obsolete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "CAP000026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_D2(ECE-CAPR0.2x0.1TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://share.engineering.auckland.ac.nz/ece/ts/Student%20Documents/CER%20CAP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Obsolete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "CAP000026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_D2(ECE-CAPR0.2x0.1TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://share.engineering.auckland.ac.nz/ece/ts/Student%20Documents/CER%20CAP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Obsolete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "CAP000026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_D3(ECE-CAPR0.2x0.1TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://share.engineering.auckland.ac.nz/ece/ts/Student%20Documents/CER%20CAP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Obsolete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "CAP000026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_D3(ECE-CAPR0.2x0.1TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://share.engineering.auckland.ac.nz/ece/ts/Student%20Documents/CER%20CAP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Obsolete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "CAP000026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_D3(ECE-CAPR0.2x0.1TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://share.engineering.auckland.ac.nz/ece/ts/Student%20Documents/CER%20CAP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Obsolete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "CAP000026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=LED?_D1(LED_SFH 213 FA_OSR)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ams OSRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SFH 213 FA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED?_D2(LED_SFH 213 FA_OSR)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ams OSRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SFH 213 FA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED?_D3(LED_SFH 213 FA_OSR)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ams OSRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SFH 213 FA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_D1(ECE-RESA0.4TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Axial 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Active components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "T442124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "RES000058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "0.6W"; VariantName = "[No Variations]"
+Added Component: Designator=R?_D1(ECE-RESA0.4TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Axial 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Active components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "T442124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "RES000058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "0.6W"; VariantName = "[No Variations]"
+Added Component: Designator=R?_D1(ECE-RESA0.4TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Axial 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Active components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "T442124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "RES000058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "0.6W"; VariantName = "[No Variations]"
+Added Component: Designator=R?_D1(ECE-RESA0.4TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Axial 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Active components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "T442124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "RES000058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "0.6W"; VariantName = "[No Variations]"
+Added Component: Designator=R?_D1(ECE-RESA0.4TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Axial 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Active components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "T442124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "RES000058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "0.6W"; VariantName = "[No Variations]"
+Added Component: Designator=R?_D2(ECE-RESA0.4TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Axial 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Active components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "T442124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "RES000058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "0.6W"; VariantName = "[No Variations]"
+Added Component: Designator=R?_D2(ECE-RESA0.4TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Axial 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Active components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "T442124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "RES000058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "0.6W"; VariantName = "[No Variations]"
+Added Component: Designator=R?_D2(ECE-RESA0.4TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Axial 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Active components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "T442124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "RES000058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "0.6W"; VariantName = "[No Variations]"
+Added Component: Designator=R?_D2(ECE-RESA0.4TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Axial 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Active components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "T442124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "RES000058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "0.6W"; VariantName = "[No Variations]"
+Added Component: Designator=R?_D2(ECE-RESA0.4TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Axial 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Active components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "T442124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "RES000058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "0.6W"; VariantName = "[No Variations]"
+Added Component: Designator=R?_D3(ECE-RESA0.4TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Axial 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Active components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "T442124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "RES000058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "0.6W"; VariantName = "[No Variations]"
+Added Component: Designator=R?_D3(ECE-RESA0.4TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Axial 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Active components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "T442124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "RES000058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "0.6W"; VariantName = "[No Variations]"
+Added Component: Designator=R?_D3(ECE-RESA0.4TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Axial 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Active components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "T442124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "RES000058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "0.6W"; VariantName = "[No Variations]"
+Added Component: Designator=R?_D3(ECE-RESA0.4TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Axial 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Active components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "T442124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "RES000058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "0.6W"; VariantName = "[No Variations]"
+Added Component: Designator=R?_D3(ECE-RESA0.4TH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "Axial 10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Active components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "T442124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "RES000058"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = "0.6W"; VariantName = "[No Variations]"
+Add component: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found PCBComponent_1
+Add component: Footprint Not Found PCBComponent_1
+Added Pin To Net: NetName=GND Pin=C?_D1-1
+Added Pin To Net: NetName=+5 Pin=C?_D1-2
+Added Pin To Net: NetName=GND Pin=C?_D2-1
+Added Pin To Net: NetName=+5 Pin=C?_D2-2
+Added Pin To Net: NetName=GND Pin=C?_D3-1
+Added Pin To Net: NetName=+5 Pin=C?_D3-2
+Added Pin To Net: NetName=Photo C-V1 Pin=LED?_D1-1
+Added Pin To Net: NetName=+5 Pin=LED?_D1-2
+Added Pin To Net: NetName=Photo C-V1 Pin=LED?_D2-1
+Added Pin To Net: NetName=+5 Pin=LED?_D2-2
+Added Pin To Net: NetName=Photo C-V1 Pin=LED?_D3-1
+Added Pin To Net: NetName=+5 Pin=LED?_D3-2
+Added Pin To Net: NetName=GND Pin=R?_D1-1
+Added Pin To Net: NetName=GND Pin=R?_D1-1
+Added Pin To Net: NetName=GND Pin=R?_D1-1
+Added Pin To Net: NetName=Photo C-V1 Pin=R?_D1-2
+Added Pin To Net: NetName=GND Pin=R?_D2-1
+Added Pin To Net: NetName=GND Pin=R?_D2-1
+Added Pin To Net: NetName=GND Pin=R?_D2-1
+Added Pin To Net: NetName=Photo C-V1 Pin=R?_D2-2
+Added Pin To Net: NetName=GND Pin=R?_D3-1
+Added Pin To Net: NetName=GND Pin=R?_D3-1
+Added Pin To Net: NetName=GND Pin=R?_D3-1
+Added Pin To Net: NetName=Photo C-V1 Pin=R?_D3-2
+Add Pin To Net: Unknown Pin: Pin U?_D1-3
+Add Pin To Net: Unknown Pin: Pin U?_D1-4
+Add Pin To Net: Unknown Pin: Pin U?_D1-8
+Add Pin To Net: Unknown Pin: Pin U?_D2-3
+Add Pin To Net: Unknown Pin: Pin U?_D2-4
+Add Pin To Net: Unknown Pin: Pin U?_D2-8
+Add Pin To Net: Unknown Pin: Pin U?_D3-3
+Add Pin To Net: Unknown Pin: Pin U?_D3-4
+Add Pin To Net: Unknown Pin: Pin U?_D3-8
+Added Pin To Net: NetName=NetC?_D1_1 Pin=C?_D1-1
+Added Pin To Net: NetName=NetC?_D1_1 Pin=R?_D1-1
+Added Pin To Net: NetName=NetC?_D1_1 Pin=R?_D1-2
+Added Net: Name=NetC?_D1_1
+Add Net: Net with name "NetC?_D1_1" already exists
+Added Pin To Net: NetName=NetC?_D1_2 Pin=C?_D1-2
+Added Pin To Net: NetName=NetC?_D1_2 Pin=R?_D1-2
+Added Net: Name=NetC?_D1_2
+Added Pin To Net: NetName=NetC?_D2_1 Pin=C?_D2-1
+Added Pin To Net: NetName=NetC?_D2_1 Pin=R?_D2-1
+Added Pin To Net: NetName=NetC?_D2_1 Pin=R?_D2-2
+Added Net: Name=NetC?_D2_1
+Add Net: Net with name "NetC?_D2_1" already exists
+Added Pin To Net: NetName=NetC?_D2_2 Pin=C?_D2-2
+Added Pin To Net: NetName=NetC?_D2_2 Pin=R?_D2-2
+Added Net: Name=NetC?_D2_2
+Added Pin To Net: NetName=NetC?_D3_1 Pin=C?_D3-1
+Added Pin To Net: NetName=NetC?_D3_1 Pin=R?_D3-1
+Added Pin To Net: NetName=NetC?_D3_1 Pin=R?_D3-2
+Added Net: Name=NetC?_D3_1
+Add Net: Net with name "NetC?_D3_1" already exists
+Added Pin To Net: NetName=NetC?_D3_2 Pin=C?_D3-2
+Added Pin To Net: NetName=NetC?_D3_2 Pin=R?_D3-2
+Added Net: Name=NetC?_D3_2
+Added Pin To Net: NetName=PhotoOut Pin=C?_D1-2
+Added Pin To Net: NetName=PhotoOut Pin=C?_D2-2
+Added Pin To Net: NetName=PhotoOut Pin=C?_D3-2
+Added Pin To Net: NetName=PhotoOut Pin=P2-1
+Added Pin To Net: NetName=PhotoOut Pin=R?_D1-2
+Added Pin To Net: NetName=PhotoOut Pin=R?_D2-2
+Added Pin To Net: NetName=PhotoOut Pin=R?_D3-2
+Added Net: Name=PhotoOut
+Added Class: Name=D1
+Added Class: Name=D2
+Added Class: Name=D3
+Added Class: Name=Sheet1
+Added Room: Name=311prac
+Added Room: Name=D1
+Added Room: Name=D2
+Added Room: Name=D3
+Added Rule: Name=Schematic Supply Nets_4

@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=PhotoOut Pin=C2_D2-2
+Removed Pin From Net: NetName=PhotoOut Pin=C2_D3-2
+Removed Pin From Net: NetName=PhotoOut Pin=R2_D2-2
+Removed Pin From Net: NetName=PhotoOut Pin=R2_D3-2
+Added Component: Designator=P?(ECE-600102STTH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://share.engineering.auckland.ac.nz/ece/ts/Student%20Documents/polarised_connectors.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = "GTK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = "600102ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "2.54 Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Elecon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "YY3N02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = "Active Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = "600102ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "CON000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 Way"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P?(ECE-600102STTH)
+Add component (AddParameter): Name = "Alternative-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Method"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://share.engineering.auckland.ac.nz/ece/ts/Student%20Documents/polarised_connectors.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Item"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = "GTK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer-PN"; Value = "600102ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Path"; Value = "ece/ts/Lists/Stock Inventory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Review-date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size/Package"; Value = "2.54 Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Elecon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1-PN"; Value = "YY3N02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = "Active Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2-PN"; Value = "600102ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UoA Stock#"; Value = "CON000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 Way"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage/Current"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Add Pin To Net: Unknown Pin: Pin U1_D1-1
+Add Pin To Net: Unknown Pin: Pin U1_D1-2
+Add Pin To Net: Unknown Pin: Pin U1_D1-3
+Add Pin To Net: Unknown Pin: Pin U1_D1-4
+Add Pin To Net: Unknown Pin: Pin U1_D1-5
+Add Pin To Net: Unknown Pin: Pin U1_D1-6
+Add Pin To Net: Unknown Pin: Pin U1_D1-7
+Add Pin To Net: Unknown Pin: Pin U1_D1-8
+Add Pin To Net: Unknown Pin: Pin U1_D2-1
+Add Pin To Net: Unknown Pin: Pin U1_D2-2
+Add Pin To Net: Unknown Pin: Pin U1_D2-3
+Add Pin To Net: Unknown Pin: Pin U1_D2-4
+Add Pin To Net: Unknown Pin: Pin U1_D2-5
+Add Pin To Net: Unknown Pin: Pin U1_D2-6
+Add Pin To Net: Unknown Pin: Pin U1_D2-8
+Add Pin To Net: Unknown Pin: Pin U1_D3-1
+Add Pin To Net: Unknown Pin: Pin U1_D3-2
+Add Pin To Net: Unknown Pin: Pin U1_D3-3
+Add Pin To Net: Unknown Pin: Pin U1_D3-4
+Add Pin To Net: Unknown Pin: Pin U1_D3-5
+Add Pin To Net: Unknown Pin: Pin U1_D3-6
+Add Pin To Net: Unknown Pin: Pin U1_D3-8
+Added Pin To Net: NetName=PhotoOut2 Pin=C2_D2-2
+Added Pin To Net: NetName=PhotoOut2 Pin=P?-1
+Added Pin To Net: NetName=PhotoOut2 Pin=R2_D2-2
+Added Net: Name=PhotoOut2
+Added Pin To Net: NetName=PhotoOut3 Pin=C2_D3-2
+Added Pin To Net: NetName=PhotoOut3 Pin=P?-1
+Added Pin To Net: NetName=PhotoOut3 Pin=R2_D3-2
+Added Net: Name=PhotoOut3
+Added Member To Class: ClassName=D1 Member=Component C2_D1 (C2) CAP000026
+Added Member To Class: ClassName=D3 Member=Component C2_D3 (C2) CAP000026
+Added Member To Class: ClassName=311prac Member=Component P? CON000001
+Added Member To Class: ClassName=311prac Member=Component P? CON000001
+Added Member To Class: ClassName=D1 Member=Component R2_D1 (R2) RES000058
+Added Member To Class: ClassName=D2 Member=Component R3_D2 (R3)
+Added Member To Class: ClassName=D3 Member=Component R5_D3 (R5) RES000058
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_5
